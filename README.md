@@ -5,7 +5,7 @@ My name is Iqbal Fasyah, and I am a FullStack Developer with over 5 years of exp
 ## Skills
 
 - Proficient in .Net/.Net Core C#, Laravel, ReactJs, VueJs, and Flutter
-- Familiarity with various databases such as MySQL, MongoDB, and Firebase
+- Familiarity with various databases
 - Experience with version control systems such as Git and GitHub
 - Strong understanding of software design principles and best practices
 - Excellent problem-solving skills and attention to detail
