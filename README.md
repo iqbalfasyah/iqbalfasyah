@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-My name is Iqbal Fasyah, and I am a FullStack Developer with over 5 years of experience in building web and mobile applications. My expertise includes using various programming languages and frameworks such as .Net/.Net Core C#, Laravel, ReactJs, VueJs, and Flutter to develop robust and scalable applications.
+I am a FullStack Developer with over 5 years of experience in building web and mobile applications. My expertise includes using various programming languages and frameworks such as .Net/.Net Core C#, Laravel, ReactJs, VueJs, and Flutter to develop robust and scalable applications.
 
 ## Skills
 
