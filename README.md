@@ -1,8 +1,8 @@
-I am a FullStack Developer with over 5 years of experience in building web and mobile applications. My expertise includes using various programming languages and frameworks such as .Net/.Net Core C#, Laravel, ReactJs, VueJs, and Flutter to develop robust and scalable applications.
+I am a FullStack Developer with over 5 years of experience in building web and mobile applications. My expertise includes using various programming languages and frameworks such as .Net/.Net Core C#, Laravel, ReactJs, VueJs to develop robust and scalable applications.
 
 ## Skills
 
-- Proficient in .Net/.Net Core C#, Laravel, ReactJs, VueJs, and Flutter
+- Proficient in .Net/.Net Core C#, Laravel, ReactJs, VueJs
 - Familiarity with various databases
 - Experience with version control systems such as Git and GitHub
 - Strong understanding of software design principles and best practices
