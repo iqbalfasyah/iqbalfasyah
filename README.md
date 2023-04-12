@@ -4,7 +4,7 @@ I am a FullStack Developer with over 5 years of experience in building web and m
 
 - Proficient in .Net/.Net Core C#, Laravel, ReactJs, VueJs
 - Familiarity with various databases
-- Experience with version control systems such as Git and GitHub
+- Experience with version control systems
 - Strong understanding of software design principles and best practices
 - Excellent problem-solving skills and attention to detail
 
