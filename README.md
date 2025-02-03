@@ -1,15 +1,19 @@
-I am an accomplished FullStack Web Developer with over 5 years of hands-on experience in crafting dynamic web and mobile applications. My expertise lies in leveraging a diverse array of programming languages and frameworks, including .NET Core C#, Laravel, Reactjs, and Vuejs, to engineer robust and scalable solutions.
+## Full Stack Web Developer | .NET, .NET Core, C#, Blazor, Vue.js, React.js, Laravel, WordPress, API & Database
+## ✨ 7+ Years Experience
 
-## Skills
-- Proficient in .Net/.Net Core C#, Laravel, ReactJs, VueJs
-- Well-versed in various database systems
-- Experienced with version control systems
-- Possess a strong grasp of software design principles and best practices
-- Demonstrated proficiency in problem-solving with keen attention to detail
-  
-I am committed to delivering high-quality, innovative solutions that meet the unique needs of clients while adhering to the highest standards of software development.
+I’m a passionate Full Stack Web Developer with over 7 years of experience in building, optimizing, and maintaining web applications, APIs, and databases. My expertise spans across both front-end and back-end development, and I specialize in delivering high-quality, scalable solutions that meet client needs.
 
-## Contact
-- LinkedIn: [https://www.linkedin.com/in/iqbalfasyah/](https://www.linkedin.com/in/iqbalfasyah/)
-  
-If you're interested in collaborating or have any inquiries, please don't hesitate to reach out. I'm eager to connect and discuss potential opportunities. Looking forward to hearing from you soon!
+## What I Can Do for You:
+✔ Website & Web Application Development
+✔ API Development & Integration
+✔ Database Design & Optimization
+✔ Bug Fixing & Performance Enhancement
+
+## Technical Expertise:
+💻 Back-End: .NET, .NET Core, C#, Blazor, Laravel, WordPress, PHP
+🌐 Front-End: Blazor, Vue.js, React.js, WordPress, JavaScript, Typescript, jQuery, Bootstrap, HTML5, CSS3, SCSS
+🔗 API & Data: REST full API, JSON, AJAX, LinQ, DapperSql, Webpack
+🗄 Databases & Servers: Microsoft SQL Server, MySQL, PostgreSQL, Apache, IIS, NGINX
+📊 Tools & Workflow: Github, Bitbucket, ERD, DFD, Flowcharts
+
+## I am committed to delivering high-quality solutions that meet client needs efficiently. Let’s discuss your project!
