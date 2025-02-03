@@ -1,5 +1,5 @@
-## Full Stack Web Developer | .NET, .NET Core, C#, Blazor, Vue.js, React.js, Laravel, WordPress, API & Database
-### ✨ 7+ Years of Experience
+## Full Stack Web Developer | 7+ Years of Experience
+### ✨ .NET, .NET Core, C#, Blazor, Vue.js, React.js, Laravel, WordPress, API & Database
 
 I’m a passionate Full Stack Web Developer with over 7 years of experience in building, optimizing, and maintaining web applications, APIs, and databases. My expertise spans both front-end and back-end development, and I specialize in delivering high-quality, scalable solutions that meet client needs.
 
@@ -25,4 +25,4 @@ I’m a passionate Full Stack Web Developer with over 7 years of experience in b
 ### 📊 **Tools & Workflow:**
 - GitHub, Bitbucket, ERD, DFD, Flowcharts
 
-## I am committed to delivering high-quality solutions that meet client needs efficiently. Let’s discuss your project!
+### I am committed to delivering high-quality solutions that meet client needs efficiently. Let’s discuss your project!
